@@ -1,0 +1,12 @@
+Starting audit...
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/pootv/Main.java:11:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/pootv/Main.java:12:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/pootv/Main.java:18:37: Empty statement. [EmptyStatement]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/actions/Logout.java:13:35: '{' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/actions/Action.java:8:5: Missing a Javadoc comment. [MissingJavadocMethod]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/actions/Action.java:8:45: Redundant 'final' modifier. [RedundantModifier]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/actions/Action.java:8:66: Redundant 'final' modifier. [RedundantModifier]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/actions/Action.java:9:35: Redundant 'final' modifier. [RedundantModifier]
+[ERROR] /home/vladimirbucur/Facultate-ACS/POO/Teme/oop-asignments/proiect1/./src/checker/CheckStyleConstants.java:3:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+Audit done.
+Checkstyle ends with 9 errors.
