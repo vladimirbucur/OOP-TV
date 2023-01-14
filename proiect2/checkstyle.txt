@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] /home/vladimirbucur/Facultate-ACS/Anul2/Semestrul1/POO/Teme/oop-asignments/proiect2/./src/Main.java:10:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] /home/vladimirbucur/Facultate-ACS/Anul2/Semestrul1/POO/Teme/oop-asignments/proiect2/./src/Main.java:11:5: Missing a Javadoc comment. [MissingJavadocMethod]
+Audit done.
+Checkstyle ends with 2 errors.
